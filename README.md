@@ -1,4 +1,4 @@
-# Byte-Hogs
+# Safest-Path
 
 <p align="center">
   <a href="" rel="noopener">
