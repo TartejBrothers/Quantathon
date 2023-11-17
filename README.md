@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center"> We will add the value of criminal data on certain roads and will make our map to use the other path to prevent the user from crimes.
+<p> We will add the value of criminal data on certain roads and will make our map to use the other path to prevent the user from crimes.
 
 In todays rapidly changing world, the importance of safe travel cannot be overstated.
 
@@ -40,6 +40,10 @@ We can allow users to add comments to certain routes that helps the traveller mo
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
-- HTML
-- CSS
-- JavaScript
+<ul align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</ul>
